@@ -1,2 +1,2 @@
 # Site_Visitka
-https://github.com/brolgaleks/Site_Visitka.git
+https://brolgaleks.github.io/Site_Visitka/
